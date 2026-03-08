@@ -1,2 +1,2 @@
 # se5techcalc
-Python GUI calculator for research costs in Space Empires 5
+This is a simple calculator for determining how many percentage points to allocate when researching multiple tech levels in Space Empires 5.
